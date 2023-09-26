@@ -152,6 +152,7 @@ Estuve pensando en pausar un poco este proyecto para seguir con otros y luego re
 - [Redes convulsionales](https://www.youtube.com/watch?v=4sWhhQwHqug&t=330s)
 - [Funciones de Activacion](https://www.youtube.com/watch?v=_0wdproot34&t=21s)
 - [Dimensionalidad de Datos](https://saturncloud.io/blog/tensorflow-logits-and-labels-must-have-the-same-first-dimension/)
+- [Dataset del modelo entrenado con CSV humano](https://www.kaggle.com/datasets/tbrewer/connect-4)
 
 -El resto de informacion general la extraen de la pagina oficial de
 [TensorFlow](https://www.tensorflow.org/resources/models-datasets?hl=es-419)
